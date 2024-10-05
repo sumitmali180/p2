@@ -73,7 +73,7 @@ The Myntra home and living section seamlessly combines style and comfort for you
 <h2> Beauty </h2>
 The Myntra beauty section is a haven for beauty and skincare enthusiasts. Explore an extensive range of cosmetics, skincare products, fragrances, and grooming tools from leading brands. Whether you're aiming to enhance your natural beauty or indulge in self-care, this section provides a diverse selection of products designed to help you look and feel your best.
 <hr>
-<img src="https://i.ibb.co/KqyPbJQ/5.png" alt="5" border="0">
+<img src="https://i.ibb.co/1JvmZ1G/image.png" alt="image" border="0">
 
 <hr>
 
