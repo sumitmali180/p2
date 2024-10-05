@@ -28,8 +28,8 @@ https://myntra-team-project.vercel.app/
 <ul>
   <li>Shiv Nandan (Team leader) - Nav Bar, Studio section and Footer</li>
   <li>Sapna Sarkar - Men Section and Women Section</li>
-  <li>Raushan - Kids Section</li>
-  <li>Vaibhav - Beauty Section</li>
+  <li>Raushan Jha- Kids Section</li>
+  <li>Vaibhav Daware- Beauty Section</li>
   <li>Sumit Mali - Home and Living Section</li>
 </ul>
 <hr>
